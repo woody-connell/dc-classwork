@@ -39,6 +39,9 @@ componentDidMount = () => {
     return (
       <>
         Home Page
+        <br/> <br/>
+        <Child data={4} />
+        
       </>
     )
     }
